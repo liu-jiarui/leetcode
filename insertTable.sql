@@ -1,0 +1,23 @@
+INSERT INTO PLAYERS VALUES (2, 'Everett', 'R', '1948-09-01', 'M', 1975, 'Stoney Road','43', '3575NH', 'Stratford', '070-237893', '2411');  
+INSERT INTO PLAYERS VALUES (6, 'Parmenter', 'R', '1964-06-25', 'M', 1977, 'Haseltine Lane','80', '1234KK', 'Stratford', '070-476537', '8467');  
+INSERT INTO PLAYERS VALUES (7, 'Wise', 'GWS', '1963-05-11', 'M', 1981, 'Edgecombe Way','39', '9758VB', 'Stratford', '070-347689', NULL);  
+INSERT INTO PLAYERS VALUES (8, 'Newcastle', 'B', '1962-07-08', 'F', 1980, 'Station Road','4', '6584WO', 'Inglewood', '070-458458', '2983');  
+INSERT INTO PLAYERS VALUES (27, 'Collins', 'DD', '1964-12-28', 'F', 1983, 'Long Drive','804', '8457DK', 'Eltham', '079-234857', '2513');  
+INSERT INTO PLAYERS VALUES (28, 'Collins', 'C', '1963-06-22', 'F', 1983, 'Old Main Road','10', '1294QK', 'Midhurst', '010-659599', NULL);  
+INSERT INTO PLAYERS VALUES (39, 'Bishop', 'D', '1956-10-29', 'M', 1980, 'Eaton Square','78', '9629CD', 'Stratford', '070-393435', NULL);  
+INSERT INTO PLAYERS VALUES (44, 'Baker', 'E', '1963-01-09', 'M', 1980, 'Lewis Street','23', '4444LJ', 'Inglewood', '070-368753', '1124');  
+INSERT INTO PLAYERS VALUES (57, 'Brown', 'M', '1971-08-17', 'M', 1985, 'Edgecombe Way','16', '4377CB', 'Stratford', '070-473458', '6409');  
+INSERT INTO PLAYERS VALUES (83, 'Hope', 'PK', '1956-11-11', 'M', 1982, 'Magdalene Road','16A', '1812UP', 'Stratford', '070-353548', '1608');  
+INSERT INTO PLAYERS VALUES (95, 'Miller', 'P', '1963-05-14', 'M', 1972, 'High Street','33A', '5746OP', 'Douglas', '070-867564', NULL);  
+INSERT INTO PLAYERS VALUES (100, 'Parmenter', 'P', '1963-02-28', 'M', 1979, 'Haseltine Lane','80', '6494SG', 'Stratford', '070-494593', '6524');  
+INSERT INTO PLAYERS VALUES (104, 'Moorman', 'D', '1970-05-10', 'F', 1984, 'Stout Street','65', '9437AO', 'Eltham', '079-987571', '7060');  
+INSERT INTO PLAYERS VALUES (112, 'Bailey', 'IP', '1963-10-01', 'F', 1984, 'Vixen Road','8', '6392LK', 'Plymouth', '010-548745', '1319');  
+  
+INSERT INTO PENALTIES VALUES (1,  6, '1980-12-08',100);  
+INSERT INTO PENALTIES VALUES (2, 44, '1981-05-05', 75);  
+INSERT INTO PENALTIES VALUES (3, 27, '1983-09-10',100);  
+INSERT INTO PENALTIES VALUES (4,104, '1984-12-08', 50);  
+INSERT INTO PENALTIES VALUES (5, 44, '1980-12-08', 25);  
+INSERT INTO PENALTIES VALUES (6,  8, '1980-12-08', 25);  
+INSERT INTO PENALTIES VALUES (7, 44, '1982-12-30', 30);  
+INSERT INTO PENALTIES VALUES (8, 27, '1984-11-12', 75); 
